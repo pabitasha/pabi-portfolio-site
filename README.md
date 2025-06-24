@@ -10,7 +10,7 @@
 - Frontend: HTML, CSS, WordPress  
 - Support Tools: Remote Desktop, Windows OS, Network Troubleshooting  
 - Version Control: Git  
-- Learning: JavaScript, AWS, Cybersecurity Fundamentals
+- Learning: JavaScript, AWS, Cybersecurity Fundamentals & AI Fundamentals
 
 ---
 
