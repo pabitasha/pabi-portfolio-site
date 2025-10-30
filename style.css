@@ -23,6 +23,11 @@ body {
 
 }
 
+p {
+  text-align: justify;
+   
+}
+
 .container{
   padding:10px 10%;
 }
